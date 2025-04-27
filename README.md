@@ -1,5 +1,3 @@
-# QA-Portfolio-Resshmaa
-
 # Resshmaa A - QA Engineer Portfolio
 
 Welcome to my Quality Assurance portfolio!  
